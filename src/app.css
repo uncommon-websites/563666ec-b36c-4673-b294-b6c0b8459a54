@@ -5,17 +5,17 @@
 	--font-sans: 'Inter', sans-serif;
 	--font-serif: 'Playfair Display', serif;
 
-	/* Custom Colors */
-	--color-brand-green: #00E560;
-	--color-brand-green-hover: #00cc55;
-	--color-brand-dark: #052e16;
-	--color-brand-darker: #021a0c;
-	--color-brand-blue: #1e1b4b;
-	--color-brand-cream: #FDFBF7;
-	--color-brand-pink: #FCE7F3;
-	--color-brand-light-green: #DCFCE7;
-	--color-brand-yellow: #FEF9C3;
-	--color-brand-purple: #F3E8FF;
+	/* Custom Colors - Förderflink Brand */
+	--color-brand-green: oklch(0.696 0.17 162.48);
+	--color-brand-green-hover: oklch(0.765 0.177 163.223);
+	--color-brand-dark: oklch(0.141 0.005 285.823);
+	--color-brand-darker: oklch(0.21 0.006 285.885);
+	--color-brand-blue: oklch(0.508 0.118 165.612);
+	--color-brand-cream: oklch(0.985 0 0);
+	--color-brand-pink: oklch(0.95 0.052 163.051);
+	--color-brand-light-green: oklch(0.905 0.093 164.15);
+	--color-brand-yellow: oklch(0.845 0.143 164.978);
+	--color-brand-purple: oklch(0.979 0.021 166.113);
 }
 
 @layer utilities {

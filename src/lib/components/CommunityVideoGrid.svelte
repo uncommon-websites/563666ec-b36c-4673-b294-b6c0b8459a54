@@ -1,11 +1,11 @@
 <section class="py-24 bg-white border-t border-gray-200 font-sans">
     <div class="max-w-7xl mx-auto px-4 text-center mb-16">
-        <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Content Engineering Certification</span>
-        <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">Learning pays off. <br/> Literally.</h2>
-        <p class="mt-6 text-gray-600 max-w-2xl mx-auto">Discover the Content Engineering principles that really move the needle for the pros now, and lead the next era of content marketing.</p>
+        <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Erfolgsgeschichten</span>
+        <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">Förderungen gefunden. <br/> Wachstum gesichert.</h2>
+        <p class="mt-6 text-gray-600 max-w-2xl mx-auto">Entdecken Sie, wie deutsche KMUs mit Förderflink die richtigen Förderprogramme gefunden und ihr Wachstum finanziert haben.</p>
         <div class="mt-8">
             <a href="#" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-sm font-bold rounded bg-gray-900 text-white hover:bg-gray-800 transition-colors">
-                Learn more about Content Engineering ->
+                Alle Erfolgsgeschichten ansehen →
             </a>
         </div>
     </div>
@@ -28,15 +28,15 @@
         <!-- Quote -->
         <div class="mt-12 flex flex-col md:flex-row items-center gap-8 max-w-5xl mx-auto">
             <div class="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden flex-shrink-0 border-2 border-gray-100">
-                <img src="https://placehold.co/200x200/eee/333?text=User" alt="User" class="w-full h-full object-cover" />
+                <img src="/generated/image-german-entrepreneur-at-desk-with-financi-1765713793450-1.webp" alt="Sandra Müller" class="w-full h-full object-cover" />
             </div>
             <div class="flex-1 text-center md:text-left">
-                <blockquote class="text-2xl md:text-3xl font-serif-display text-green-600 leading-tight">
-                    "Such a great experience learning from the brightest group of people. Thanks for having me!"
+                <blockquote class="text-2xl md:text-3xl font-serif-display text-brand-green leading-tight">
+                    "Endlich eine Lösung, die den Förderdschungel durchschaubar macht. Wir haben Programme gefunden, von denen wir nicht mal wussten, dass sie existieren."
                 </blockquote>
                 <div class="mt-4 text-xs font-bold uppercase tracking-widest text-gray-400">
-                    Michelle Huang <br/>
-                    <span class="text-gray-300">Head of Growth Marketing, Whop</span>
+                    Sandra Müller <br/>
+                    <span class="text-gray-300">Geschäftsführerin, GreenTech Solutions</span>
                 </div>
             </div>
         </div>
