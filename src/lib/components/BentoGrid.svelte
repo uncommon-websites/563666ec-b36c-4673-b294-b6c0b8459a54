@@ -8,8 +8,8 @@
     <div class="max-w-6xl mx-auto px-4 border border-gray-200 bg-gray-50">
         <!-- Row 1 -->
         <div class="grid md:grid-cols-2">
-            <div class="p-12 border-b border-r border-gray-200 bg-[#FFF0F5]">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Analyse</span>
+            <div class="p-12 border-b border-r border-gray-200 bg-white">
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-gray-50 px-2 py-1 rounded mb-6 inline-block">Analyse</span>
                 <h3 class="text-3xl font-serif-display mb-4">Ihre Förderanalyse – schnell und vollständig</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Verwalten Sie alle Ihre Förderanträge, Fristen und Updates von einer zentralen Oberfläche aus. Behalten Sie den Überblick über laufende und potenzielle Förderungen.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Mehr erfahren <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
@@ -98,7 +98,7 @@
                     </div>
                 </div>
             </div>
-            <div class="p-12 border-b border-gray-200 bg-[#FFF5EB]">
+            <div class="p-12 border-b border-gray-200 bg-gray-50">
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Automatisierung</span>
                 <h3 class="text-3xl font-serif-display mb-4">Automatische Förderüberwachung</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Unser System überwacht kontinuierlich neue Förderprogramme und Änderungen. Sie werden automatisch benachrichtigt, wenn neue passende Förderungen verfügbar sind.</p>
@@ -108,8 +108,8 @@
 
         <!-- Row 3 -->
         <div class="grid md:grid-cols-2">
-            <div class="p-12 border-b border-r border-gray-200 bg-[#E6FFFA]">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Ressourcen</span>
+            <div class="p-12 border-b border-r border-gray-200 bg-white">
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-gray-50 px-2 py-1 rounded mb-6 inline-block">Ressourcen</span>
                 <h3 class="text-3xl font-serif-display mb-4">Umfassende Förder-Datenbank</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Zugriff auf 1.400+ Förderprogramme von Bund, Ländern und EU. Inklusive Antragsvorlagen, Kontaktstellen und Erfolgsquoten für jedes Programm.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Mehr erfahren <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
@@ -184,7 +184,7 @@
                      </div>
                  </div>
             </div>
-            <div class="p-12 border-b border-gray-200 bg-[#FEFCBF]/30">
+            <div class="p-12 border-b border-gray-200 bg-gray-50">
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Unternehmensprofil</span>
                 <h3 class="text-3xl font-serif-display mb-4">Ihr Profil – Ihre Förderungen</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Speichern Sie Ihr Unternehmensprofil einmal und erhalten Sie kontinuierlich Updates zu neuen passenden Förderprogrammen. Ihre Daten bleiben sicher und DSGVO-konform.</p>
@@ -194,8 +194,8 @@
 
         <!-- Row 5 -->
         <div class="grid md:grid-cols-2">
-            <div class="p-12 border-r border-gray-200 bg-[#E9D8FD]/30">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Beratung</span>
+            <div class="p-12 border-r border-gray-200 bg-white">
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-gray-50 px-2 py-1 rounded mb-6 inline-block">Beratung</span>
                 <h3 class="text-3xl font-serif-display mb-4">Von der Analyse zur erfolgreichen Antragstellung</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Förderflink findet die Programme – unsere Partner-Berater helfen bei der Antragstellung. Profitieren Sie von erfahrenen Fördermittelberatern für maximale Erfolgsquoten.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Mehr erfahren <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
