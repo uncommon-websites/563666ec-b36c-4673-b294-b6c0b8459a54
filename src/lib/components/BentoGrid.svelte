@@ -67,7 +67,7 @@
                     <div class="absolute inset-0 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] opacity-50"></div>
                     <div class="relative z-10 flex flex-col items-center gap-4 w-full max-w-[200px]">
                         <div class="bg-white border border-gray-200 shadow-sm rounded-lg p-3 w-full flex items-center gap-3">
-                            <div class="w-8 h-8 bg-orange-100 rounded flex items-center justify-center text-orange-500">
+                            <div class="w-8 h-8 bg-gray-100 rounded flex items-center justify-center text-gray-700">
                                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
                             </div>
                             <div class="text-[10px]">
@@ -77,7 +77,7 @@
                         </div>
                         <div class="h-4 w-0.5 bg-gray-300"></div>
                         <div class="bg-white border border-gray-200 shadow-sm rounded-lg p-3 w-full flex items-center gap-3">
-                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center text-blue-500">
+                            <div class="w-8 h-8 bg-brand-dark/10 rounded flex items-center justify-center text-brand-dark">
                                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
                             </div>
                             <div class="text-[10px]">
@@ -87,7 +87,7 @@
                         </div>
                          <div class="h-4 w-0.5 bg-gray-300"></div>
                         <div class="bg-white border border-gray-200 shadow-sm rounded-lg p-3 w-full flex items-center gap-3">
-                            <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center text-green-500">
+                            <div class="w-8 h-8 bg-brand-green/20 rounded flex items-center justify-center text-brand-dark">
                                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                             </div>
                             <div class="text-[10px]">
@@ -118,28 +118,28 @@
                  <!-- Blocks Library UI Mockup -->
                  <div class="grid grid-cols-2 gap-3 w-full max-w-sm">
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
-                         <div class="w-8 h-8 rounded bg-purple-100 mb-2 flex items-center justify-center text-purple-600">
+                         <div class="w-8 h-8 rounded bg-brand-dark/10 mb-2 flex items-center justify-center text-brand-dark">
                              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.384-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
                          </div>
                          <div class="text-[10px] font-bold text-gray-900">Bundes-Programme</div>
                          <div class="text-[8px] text-gray-500 mt-1">BMWK, BMBF, BMU</div>
                      </div>
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
-                         <div class="w-8 h-8 rounded bg-blue-100 mb-2 flex items-center justify-center text-blue-600">
+                         <div class="w-8 h-8 rounded bg-gray-200 mb-2 flex items-center justify-center text-gray-700">
                              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg>
                          </div>
                          <div class="text-[10px] font-bold text-gray-900">Landes-Programme</div>
                          <div class="text-[8px] text-gray-500 mt-1">Alle 16 Bundesländer</div>
                      </div>
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
-                         <div class="w-8 h-8 rounded bg-green-100 mb-2 flex items-center justify-center text-green-600">
+                         <div class="w-8 h-8 rounded bg-brand-green/20 mb-2 flex items-center justify-center text-brand-dark">
                              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                          </div>
                          <div class="text-[10px] font-bold text-gray-900">EU-Programme</div>
                          <div class="text-[8px] text-gray-500 mt-1">Horizon, EFRE, ESF</div>
                      </div>
                      <div class="bg-white border border-gray-200 rounded p-3 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
-                         <div class="w-8 h-8 rounded bg-yellow-100 mb-2 flex items-center justify-center text-yellow-600">
+                         <div class="w-8 h-8 rounded bg-gray-100 mb-2 flex items-center justify-center text-gray-600">
                              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
                          </div>
                          <div class="text-[10px] font-bold text-gray-900">KfW-Förderung</div>

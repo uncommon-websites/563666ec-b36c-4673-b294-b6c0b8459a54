@@ -80,7 +80,7 @@
                 <ul class="space-y-2">
                     <li><a href="#" class="hover:text-white">Talk to Us</a></li>
                     <li><a href="#" class="hover:text-white">Community</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Job Board</a></li>
+                    <li><a href="#" class="hover:text-white">Kontakt</a></li>
                     <li><a href="#" class="hover:text-white">Events</a></li>
                 </ul>
             </div>
