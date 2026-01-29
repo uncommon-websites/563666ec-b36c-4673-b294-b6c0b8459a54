@@ -25,7 +25,7 @@
 
         <!-- Subheadline -->
         <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Förderflink durchsucht automatisch 1.400+ Förderprogramme und findet die passenden Zuschüsse für Ihr Unternehmen – in unter 5 Minuten statt 3 Stunden manueller Recherche.
+            1.400+ Förderprogramme automatisch durchsuchen – in 5 Minuten statt 3 Stunden.
         </p>
 
         <!-- CTA -->
@@ -55,7 +55,7 @@
                 </div>
 
                 <!-- Results List -->
-                <div class="space-y-3 flex-1 overflow-hidden">
+                <div class="space-y-2 flex-1 overflow-hidden">
                     <div class="bg-white rounded-lg border border-gray-200 p-4 flex items-center justify-between hover:shadow-md transition-shadow">
                         <div class="flex-1">
                             <div class="flex items-center gap-2 mb-1">

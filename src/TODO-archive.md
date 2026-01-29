@@ -16,3 +16,15 @@
 - [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values
 
 ──────────────────────────────────────────────────
+
+## Session: 2026-01-29T10:22:22.241Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2026-01-29T10:22:02.123Z -->
+
+# Current Todo List State
+
+- [ ] Shorten Hero paragraph text
+- [ ] Reduce bottom space in Hero
+
+──────────────────────────────────────────────────
