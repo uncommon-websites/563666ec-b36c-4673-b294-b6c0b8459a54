@@ -19,7 +19,6 @@
                     <path d="M50 0 L60 35 L95 25 L70 50 L95 75 L60 65 L50 100 L40 65 L5 75 L30 50 L5 25 L40 35 Z" />
                 </svg>
             </span>
-            <br class="hidden md:block" />
             Förderung in Minuten
         </h1>
 

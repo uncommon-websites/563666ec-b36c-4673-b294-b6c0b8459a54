@@ -28,3 +28,14 @@
 - [ ] Reduce bottom space in Hero
 
 ──────────────────────────────────────────────────
+
+## Session: 2026-01-29T10:35:08.013Z
+
+<!-- DO NOT EDIT - Managed by todo_list tool -->
+<!-- Updated: 2026-01-29T10:34:50.455Z -->
+
+# Current Todo List State
+
+- [ ] Make hero headline one line
+
+──────────────────────────────────────────────────
